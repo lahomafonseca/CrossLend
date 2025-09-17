@@ -1,1 +1,1 @@
-# 14-2
+CrossLend is a multi-chain lending protocol that allows borrowing assets across different blockchains.
