@@ -1,0 +1,3 @@
+function sendCrossChainMessage(targetChain, data) {
+  console.log(`Sending message to ${targetChain}:`, data);
+}
